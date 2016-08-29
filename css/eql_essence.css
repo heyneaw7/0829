@@ -462,6 +462,10 @@ color: #FFAFAE;
 			margin-top: 50px;
 		}
 
+		.eng .faq {
+			display: none;
+		}
+
 
 		/*----Process----*/
     .threesteps {

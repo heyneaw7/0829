@@ -275,6 +275,7 @@ function changeAllNavBarUIWording(arr,lang_index){
   document.getElementById('lang_body_led_cont2').innerHTML = arr[lang_index].lang_body_led_cont2;
   document.getElementById('lang_body_led_title3').innerHTML = arr[lang_index].lang_body_led_title3;
   document.getElementById('lang_body_led_cont3').innerHTML = arr[lang_index].lang_body_led_cont3;
+  document.getElementById('lang_body_proof').innerHTML = arr[lang_index].lang_body_proof;
   document.getElementById('lang_body_led_cont4').innerHTML = arr[lang_index].lang_body_led_cont4;
   document.getElementById('lang_body_led_red').innerHTML = arr[lang_index].lang_body_led_red;
   document.getElementById('lang_body_led_red_cont').innerHTML = arr[lang_index].lang_body_led_red_cont;

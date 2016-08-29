@@ -1015,7 +1015,7 @@ ul.circle li:before
 .underlined-title h2
 {
     font-size: 37px;
-    text-transform: uppercase;
+    /*--text-transform: uppercase;--*/
     font-weight: inherit;;
     color: inherit;;
 }
